@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=+5V Pin=IC2-4
+Removed Pin From Net: NetName=NetC7_2 Pin=IC2-6
+Removed Pin From Net: NetName=GND Pin=IC2-8
+Removed Pin From Net: NetName=NetR19_1 Pin=IC3-1
+Removed Pin From Net: NetName=NetC6_2 Pin=IC3-9
+Removed Pin From Net: NetName=NetC12_2 Pin=IC3-10
+Removed Pin From Net: NetName=NetR3_1 Pin=IC3-11
+Removed Pin From Net: NetName=NetIC3_19 Pin=R7-1
+Removed Pin From Net: NetName=NetIC2_7 Pin=R11-2
+Removed Pin From Net: NetName=NetIC2_7 Pin=R14-2
+Removed Pin From Net: NetName=+5V Pin=RE1-1
+Removed Pin From Net: NetName=NetK2_2 Pin=RE1-2
+Removed Pin From Net: NetName=NetBR1_3 Pin=RE1-3
+Removed Pin From Net: NetName=NetK2_2 Pin=RE1-5
+Removed Pin From Net: NetName=NetBR2_3 Pin=RE1-6
+Removed Pin From Net: NetName=NetBR1_2 Pin=RE1-7
+Removed Pin From Net: NetName=NetD1_2 Pin=RE1-8
+Change Component Designator: OldDesignator=R8? NewDesignator=R8
+Added Pin To Net: NetName=NetC13_2 Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=NetC7_2 Pin=IC2-5
+Added Pin To Net: NetName=+5V Pin=IC2-8
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=NetIC3_9 Pin=IC3-9
+Added Pin To Net: NetName=NetIC3_10 Pin=IC3-10
+Added Pin To Net: NetName=NetIC3_11 Pin=IC3-11
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Add Pin To Net: Unknown Pin: Pin RE1-11
+Add Pin To Net: Unknown Pin: Pin RE1-12
+Add Pin To Net: Unknown Pin: Pin RE1-21
+Add Pin To Net: Unknown Pin: Pin RE1-22
+Add Pin To Net: Unknown Pin: Pin RE1-24
+Add Pin To Net: Unknown Pin: Pin RE1-A1
+Add Pin To Net: Unknown Pin: Pin RE1-A2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_1 Pin=R11-2
+Added Pin To Net: NetName=NetIC2_1 Pin=R14-2
+Added Net: Name=NetIC2_1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R12-1
+Added Pin To Net: NetName=NetIC2_2 Pin=R15-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Pin To Net: NetName=NetIC2_6 Pin=R1-1
+Added Pin To Net: NetName=NetIC2_6 Pin=R8-2
+Added Net: Name=NetIC2_6
+Added Member To Class: ClassName=Voeding Member=Component C5 10µ
+Added Member To Class: ClassName=Atmega Member=Component R16
+Added Room: Name=Atmega
+Added Room: Name=Boutconectie
+Added Room: Name=Display
+Added Room: Name=Voeding

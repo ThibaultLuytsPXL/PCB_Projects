@@ -1,0 +1,44 @@
+Change Component Footprint: Designator=K7 Old Footprint=SHDR3W160P0X396_1X3_1112X1062X1425P New Footprint=HDRV3W60P0X200_1X3_600X200X525P
+Change Component Footprint: Designator=K10 Old Footprint=SHDR3W160P0X396_1X3_1112X1062X1425P New Footprint=HDRV3W60P0X200_1X3_600X200X525P
+Change Component Comment : Designator=K7 Old Comment=09-65-2038 New Comment=
+Change Component Comment : Designator=K10 Old Comment=09-65-2038 New Comment=
+Change component parameters: Designator = "K7" ("K7"); Footprint = "SHDR3W160P0X396_1X3_1112X1062X1425P"; UniqueID = "\AXRQHMIC" ("\AXRQHMIC")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//M22-2010305.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2010305"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "855-M22-2010305"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2010305"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K10" ("K10"); Footprint = "SHDR3W160P0X396_1X3_1112X1062X1425P"; UniqueID = "\LJARGDOA" ("\LJARGDOA")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//M22-2010305.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2010305"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "855-M22-2010305"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2010305"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV3W60P0X200_1X3_600X200X525P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//M22-2010305.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2010305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "855-M22-2010305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2010305"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=K7-1
+Added Pin To Net: NetName=NetIC3_2 Pin=K7-2
+Added Pin To Net: NetName=+5V Pin=K7-3
+Added Pin To Net: NetName=NetIC3_33 Pin=K10-1
+Added Pin To Net: NetName=NetIC3_34 Pin=K10-2
+Added Pin To Net: NetName=GND Pin=K10-3
+Add Pin To Net: Unknown Pin: Pin RE1-11
+Add Pin To Net: Unknown Pin: Pin RE1-12
+Add Pin To Net: Unknown Pin: Pin RE1-21
+Add Pin To Net: Unknown Pin: Pin RE1-22
+Add Pin To Net: Unknown Pin: Pin RE1-24
+Add Pin To Net: Unknown Pin: Pin RE1-A1
+Add Pin To Net: Unknown Pin: Pin RE1-A2
+Add Net: Net with name "NetIC2_5" already exists
+Add Net: Net with name "NetIC2_7" already exists
+Added Member To Class: ClassName=Atmega Member=Component J? M22-2010305
+Added Room: Name=Atmega
+Added Room: Name=Voeding
